@@ -1,6 +1,16 @@
 # Projeto Tarefa_U4C7O123E
 
-Este projeto é um exemplo de controle de um servo motor e LEDs RGB utilizando a Raspberry Pi Pico W. É destinado a fins de estudo e aprendizado, e por isso é livre para uso e modificação.
+Este projeto é um exemplo de controle de um servo motor e LEDs RGB utilizando a Raspberry Pi Pico W. É destinado a fins de estudo e aprendizado, e por isso é livre para uso e modificação
+.
+## Compilação
+- Instale o Raspberry Pi Pico SDK e o CMake.
+- Crie um diretório de build:
+
+  `mkdir build`  \
+   `cd build`
+  
+- Execute o comando cmake .. para configurar o projeto.
+- Compile com o comando make.
 
 ## Estrutura do Projeto
 
